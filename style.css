@@ -46,7 +46,7 @@ main{
   background: white;
   background-image: url("imagenes/found.png");
   background-repeat: no-repeat;
-  background-position: top;
+  background-position: center;
   background-position-x: 45px;
   background-position-y: 15px;
   border: none;
